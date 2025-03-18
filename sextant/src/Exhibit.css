@@ -1,14 +1,17 @@
 .exhibit {
-    border: 1px solid #ccc;
+    border: 1px solid #D9D9D9; /* Updated color */
     padding: 20px;
     margin: 20px 0;
     border-radius: 8px;
-  }
-  
-  .exhibit h2 {
+    background-color: #FFFFFF; /* Updated color */
+}
+
+.exhibit h2 {
     margin-top: 0;
-  }
-  
-  .exhibit-content {
+    color: #284B63; /* Updated color */
+}
+
+.exhibit-content {
     margin-top: 10px;
-  }
+    color: #353535; /* Updated color */
+}
