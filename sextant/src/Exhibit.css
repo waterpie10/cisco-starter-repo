@@ -1,0 +1,14 @@
+.exhibit {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+  }
+  
+  .exhibit h2 {
+    margin-top: 0;
+  }
+  
+  .exhibit-content {
+    margin-top: 10px;
+  }
