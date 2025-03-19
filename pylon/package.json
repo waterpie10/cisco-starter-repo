@@ -3,6 +3,10 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "websocket": "^1.0.34"
+        "cors": "^2.8.5",
+        "express": "^4.21.2",
+        "node-fetch": "^2.7.0",
+        "websocket": "^1.0.34",
+        "ws": "^8.18.1"
     }
 }
